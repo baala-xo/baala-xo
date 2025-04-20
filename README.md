@@ -23,7 +23,7 @@ I am currently pursuing a **Master of Science in Information Technology** from H
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-baala-xo&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=baala-xo&show_icons=true&theme=default)
 
 ---
 
