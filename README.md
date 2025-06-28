@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ochre-nu-66.vercel.app/](https://portfolio-ochre-nu-66.vercel.app/)
 
+- 💚 I build modern web-apps using **NEXTJS**
+
 - 📫 How to reach me **bala2003fd@gmail**
 
 <h3 align="left">Connect with me:</h3>
