@@ -11,7 +11,7 @@
 
 - 💚 I build modern web-apps using **NEXTJS**
 
-- 📫 How to reach me **bala2003fd@gmail**
+- 📫 How to reach me : **bala2003fd@gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
